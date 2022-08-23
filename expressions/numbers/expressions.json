@@ -43,5 +43,10 @@
     "name": "Seconds in a day",
     "answer": "86400",
     "correct": true
+  },
+  {
+    "name": "Minutes in a year",
+    "answer": "525600",
+    "correct": true
   }
 ]
