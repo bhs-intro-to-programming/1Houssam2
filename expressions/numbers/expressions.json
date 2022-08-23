@@ -28,5 +28,10 @@
     "name": "Sally's even more apples",
     "answer": "2432",
     "correct": true
+  },
+  {
+    "name": "Area of cicrle with radius 2",
+    "answer": "12.57",
+    "correct": false
   }
 ]
