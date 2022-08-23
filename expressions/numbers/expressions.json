@@ -33,5 +33,10 @@
     "name": "Area of cicrle with radius 2",
     "answer": "12.57",
     "correct": false
+  },
+  {
+    "name": "Area of cicrle with radius 2",
+    "answer": "12.566370614359172",
+    "correct": true
   }
 ]
