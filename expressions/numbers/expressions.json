@@ -23,5 +23,10 @@
     "name": "Sally's apples",
     "answer": "2",
     "correct": true
+  },
+  {
+    "name": "Sally's even more apples",
+    "answer": "2432",
+    "correct": true
   }
 ]
