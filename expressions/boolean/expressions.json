@@ -94,5 +94,11 @@
     "answer": "done && ! fun ",
     "correct": false,
     "timestamp": 1661465589474
+  },
+  {
+    "name": "Having fun?",
+    "answer": "done || ! fun ",
+    "correct": true,
+    "timestamp": 1661465604730
   }
 ]
