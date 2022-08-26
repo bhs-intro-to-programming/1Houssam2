@@ -88,5 +88,11 @@
     "answer": "hungry && ! interested ",
     "correct": false,
     "timestamp": 1661552454289
+  },
+  {
+    "name": "Can pay attention?",
+    "answer": "hungry || ! interested ",
+    "correct": false,
+    "timestamp": 1661552461033
   }
 ]
