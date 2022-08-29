@@ -53,5 +53,12 @@
     "name": "Seconds in a century",
     "answer": "3153600000",
     "correct": true
+  },
+  {
+    "name": "Area of circle with radius 2",
+    "canonical": "Math.PI * 4",
+    "answer": "12.566370614359172",
+    "correct": true,
+    "timestamp": 1661810196103
   }
 ]
