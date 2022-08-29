@@ -5,5 +5,12 @@
     "answer": "foobar",
     "correct": false,
     "timestamp": 1661810233904
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "'foobar'",
+    "answer": "FooBar",
+    "correct": false,
+    "timestamp": 1661810247568
   }
 ]
