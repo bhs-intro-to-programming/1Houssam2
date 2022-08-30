@@ -19,5 +19,12 @@
     "answer": "isSenior || invitedBySenior",
     "correct": true,
     "timestamp": 1661895868381
+  },
+  {
+    "name": "Can go into creepy crawly cave?",
+    "canonical": "!afraidOfTheDark && !afraidOfSpiders",
+    "answer": "afraidOfTheDark && ! afraidOfSpiders",
+    "correct": false,
+    "timestamp": 1661895922431
   }
 ]
