@@ -75,5 +75,12 @@
     "answer": "! storeOpen || ! isASale",
     "correct": true,
     "timestamp": 1661896374084
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "hungry || ! interested",
+    "correct": false,
+    "timestamp": 1661896403637
   }
 ]
