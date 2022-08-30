@@ -173,5 +173,12 @@
     "answer": "! storeOpen || linesTooLong",
     "correct": true,
     "timestamp": 1661896712478
+  },
+  {
+    "name": "Dragging?",
+    "canonical": "!enoughSleep && lotsOfWork",
+    "answer": "! enoughSleep && lotsOfWork",
+    "correct": true,
+    "timestamp": 1661896748041
   }
 ]
