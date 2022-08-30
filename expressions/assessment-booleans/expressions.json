@@ -54,5 +54,12 @@
     "answer": "fireLit || ! haveMatches",
     "correct": true,
     "timestamp": 1661896112468
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "! fun || tired",
+    "correct": true,
+    "timestamp": 1661896140813
   }
 ]
