@@ -5,5 +5,12 @@
     "answer": "enoughSleep || keepingUp",
     "correct": false,
     "timestamp": 1661895813228
+  },
+  {
+    "name": "Doing well?",
+    "canonical": "enoughSleep && keepingUp",
+    "answer": "enoughSleep && keepingUp",
+    "correct": true,
+    "timestamp": 1661895828012
   }
 ]
