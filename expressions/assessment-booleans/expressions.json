@@ -180,5 +180,12 @@
     "answer": "! enoughSleep && lotsOfWork",
     "correct": true,
     "timestamp": 1661896748041
+  },
+  {
+    "name": "Time to sleep?",
+    "canonical": "!sleepy || !dark",
+    "answer": "! sleepy || ! dark",
+    "correct": true,
+    "timestamp": 1661896777012
   }
 ]
