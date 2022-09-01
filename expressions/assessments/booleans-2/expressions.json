@@ -26,5 +26,12 @@
     "answer": "! afraidOfTheDark && ! afraidOfSpiders",
     "correct": true,
     "timestamp": 1662069459596
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "! hungry && interested",
+    "correct": true,
+    "timestamp": 1662069503285
   }
 ]
