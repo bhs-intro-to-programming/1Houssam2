@@ -68,5 +68,12 @@
     "answer": "12.56637014359172",
     "correct": true,
     "timestamp": 1662070543428
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "Math.abs(a+b)",
+    "correct": false,
+    "timestamp": 1662070805421
   }
 ]
