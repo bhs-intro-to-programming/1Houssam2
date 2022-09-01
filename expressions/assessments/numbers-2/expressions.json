@@ -54,5 +54,12 @@
     "answer": "a / b",
     "correct": true,
     "timestamp": 1662070354703
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a + b",
+    "correct": true,
+    "timestamp": 1662070372840
   }
 ]
