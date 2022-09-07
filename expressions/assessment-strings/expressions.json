@@ -12,5 +12,12 @@
     "answer": "\"FOO\"",
     "correct": false,
     "timestamp": 1662588280010
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "s[oobar]",
+    "correct": false,
+    "timestamp": 1662589392604
   }
 ]
