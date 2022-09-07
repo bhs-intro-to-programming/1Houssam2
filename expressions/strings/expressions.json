@@ -138,5 +138,12 @@
     "answer": "\"foobar\"",
     "correct": false,
     "timestamp": 1662587915170
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "\"s1s2\"",
+    "correct": false,
+    "timestamp": 1662587928499
   }
 ]
