@@ -5,5 +5,12 @@
     "answer": "\"S\"",
     "correct": false,
     "timestamp": 1662588272626
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "\"FOO\"",
+    "correct": false,
+    "timestamp": 1662588280010
   }
 ]
