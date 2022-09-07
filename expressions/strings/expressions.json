@@ -152,5 +152,12 @@
     "answer": "idkkk",
     "correct": false,
     "timestamp": 1662587954940
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "\"f\"",
+    "correct": false,
+    "timestamp": 1662587961308
   }
 ]
