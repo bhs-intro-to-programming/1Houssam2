@@ -131,5 +131,12 @@
     "answer": "idk",
     "correct": false,
     "timestamp": 1662587900946
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "\"foobar\"",
+    "correct": false,
+    "timestamp": 1662587915170
   }
 ]
