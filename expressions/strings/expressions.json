@@ -103,5 +103,12 @@
     "answer": "\"foofoo\"",
     "correct": false,
     "timestamp": 1662587792967
+  },
+  {
+    "name": "More indexing",
+    "canonical": "'o'",
+    "answer": "idk",
+    "correct": false,
+    "timestamp": 1662587813527
   }
 ]
