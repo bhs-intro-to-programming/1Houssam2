@@ -124,5 +124,12 @@
     "answer": "\"o\"",
     "correct": true,
     "timestamp": 1662587826512
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "idk",
+    "correct": false,
+    "timestamp": 1662587900946
   }
 ]
