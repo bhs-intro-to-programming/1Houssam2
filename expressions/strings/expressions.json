@@ -222,5 +222,12 @@
     "answer": "s.substring[1]",
     "correct": false,
     "timestamp": 1662589472520
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.substring [1]",
+    "correct": false,
+    "timestamp": 1662589475529
   }
 ]
