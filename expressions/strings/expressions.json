@@ -166,5 +166,12 @@
     "answer": "\"b\"",
     "correct": false,
     "timestamp": 1662587970980
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "\"g\"",
+    "correct": false,
+    "timestamp": 1662587981788
   }
 ]
