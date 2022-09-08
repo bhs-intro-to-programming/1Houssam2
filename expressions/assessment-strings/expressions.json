@@ -19,5 +19,12 @@
     "answer": "s[oobar]",
     "correct": false,
     "timestamp": 1662589392604
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'FOOBAR'",
+    "correct": false,
+    "timestamp": 1662673675102
   }
 ]
