@@ -26,5 +26,12 @@
     "answer": "'FOOBAR'",
     "correct": false,
     "timestamp": 1662673675102
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s[0]",
+    "correct": true,
+    "timestamp": 1662673716440
   }
 ]
