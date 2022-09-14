@@ -89,5 +89,12 @@
     "answer": "s.substring(0,s.length).ToUpperCase()",
     "correct": false,
     "timestamp": 1663191907742
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "s.substring(0,s.length).toUpperCase",
+    "correct": false,
+    "timestamp": 1663191997703
   }
 ]
