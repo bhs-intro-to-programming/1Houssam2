@@ -166,5 +166,12 @@
     "answer": "s.substring(s.length-1)",
     "correct": true,
     "timestamp": 1663194326159
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.length",
+    "correct": true,
+    "timestamp": 1663194497725
   }
 ]
