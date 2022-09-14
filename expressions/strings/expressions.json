@@ -285,5 +285,12 @@
     "answer": "\ts.substring(1,s.length-1)",
     "correct": true,
     "timestamp": 1663193168682
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "\ts.substring(s.length-3)",
+    "correct": true,
+    "timestamp": 1663194301117
   }
 ]
