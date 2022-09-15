@@ -33,5 +33,12 @@
     "answer": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
     "correct": true,
     "timestamp": 1663278075019
+  },
+  {
+    "name": "All but first and last",
+    "canonical": "s.substring(1, s.length - 1)",
+    "answer": "\ts.substring(1,s.length-1)",
+    "correct": true,
+    "timestamp": 1663278097260
   }
 ]
