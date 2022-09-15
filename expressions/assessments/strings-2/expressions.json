@@ -68,5 +68,12 @@
     "answer": "\ts.substring(s.length-1)",
     "correct": true,
     "timestamp": 1663278209279
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "\ts.substring(0,s.length).toUpperCase()",
+    "correct": true,
+    "timestamp": 1663278226064
   }
 ]
