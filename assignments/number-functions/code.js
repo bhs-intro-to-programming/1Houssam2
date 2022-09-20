@@ -4,3 +4,4 @@ const multiply = (a,b) => {return a*b}
 const devide = (a,b) => {return a/b} 
 const mod = (a,b) => {return a%b} 
 const averageOfTwo = (a,b) => {return (a+b)/2} 
+const averageOfTwo = (a,b) => {return (a+b)/3} 
