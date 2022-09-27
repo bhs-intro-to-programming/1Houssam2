@@ -26,4 +26,5 @@ const eatsFish= ( _isRed, _isSpotted) => {return !_isRed || _isSpotted}
 const eatsMice = ( _isRed, _isSpotted) => {return !_isRed || !_isSpotted} 
 const isRed = (birdR) => { return birdR === "Flobby" || birdR === "Bloggy"} 
 const isSpotted = (birdS) => {return birdS === "Flobby" || birdS === "Flibble"} 
-const isNotRed = (birdNR) => {return birdNR === "Flibble" || birdNR === "Globby"} 
+const isNotRed = (birdNR) => {return birdNR === "Flibble" || birdNR === "Globby"}
+const isNotSpotted = (birdNS) => {return birdNS === "Globby" || birdNS === "Bloggy"} 
