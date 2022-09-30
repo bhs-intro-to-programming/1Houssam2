@@ -5,3 +5,23 @@ const emit = (a, b, product) => {
 };
 
 // Write your code here ...
+const = averageweight = 
+const = hypotenuse = 
+const = smaxRadius = 
+const = numCircles = 
+const = offset = 
+canSleepIn = 
+canGoToprom = 
+getsSpeedingTicket = 
+moreThanTwiceAsLong = 
+aFartherThanB = 
+firstHald = 
+secondHalf = 
+upDown = 
+everyOther = 
+upDownlastCharcter = 
+yesIfEven = 
+counXs = 
+timesTable = 
+containsX = 
+sumSquares = 
