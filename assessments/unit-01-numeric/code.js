@@ -8,7 +8,7 @@ const G = 6.6743e-11;
 // reasonable argument list, yet more credit for a working function, and full
 // credit for a clear and simple working function.
 const itemsLeftOver = (numberOfPeople, numberOfItems) => {
-  return numberOfItems/numberOfPeople 
+  return numberOfItems-numberOfPeople 
 }
 const areaOfCircle = (radiusOfCircle, areaOfCirle) => {
   return
