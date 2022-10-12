@@ -34,6 +34,6 @@ const firstClassPostage = (weightInOunces) => {
 const weightOnJupiter = (weightofPersonInKilograms) => { 
   return 
 }
-const gravity = (massesOftwoBodies, distancebetweenTheTwoObjects) => {
-  return
+const gravity = (massesOftwoBodies, distanceBetweenTheTwoObjects) => {
+  return (massesOfTwoBodies/distanceBetweenTheTwoObjects)
 }
