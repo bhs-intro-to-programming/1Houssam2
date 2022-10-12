@@ -37,5 +37,3 @@ const weightOnJupiter = (weightofPersonInKilograms) => {
 const gravity = (massesOftwoBodies, distancebetweenTheTwoObjects) => {
   return
 }
-
-test
