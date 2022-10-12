@@ -31,8 +31,8 @@ const payWithOverTime = (numberOfHoursWorked, normalHourlyRate, overtimeRate) =>
 const firstClassPostage = (weightInOunces) => { 
   return
 }
-const weightOnJupiter = (weightofPersonInKilograms) => { 
-  return 
+const weightOnJupiter = (weightOfPersonInKilograms) => { 
+  return (weightOfPersonInKilograms *  )
 }
 const gravity = (massesOftwoBodies, distanceBetweenTheTwoObjects) => {
   return (massesOfTwoBodies/distanceBetweenTheTwoObjects)
