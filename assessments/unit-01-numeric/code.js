@@ -17,7 +17,7 @@ const volumeOfCube = (lengthOfOneCube) => {
   return
 }
 const populationGrowth = (currentSizeOfPopulation, growthRate) => {
-  return
+  return currentSizeOfPopulation + growthRate
 }
 const earnedRunAverage = (numberOfEarnedRuns, inningsPitcherhasPitched) => {
   return
