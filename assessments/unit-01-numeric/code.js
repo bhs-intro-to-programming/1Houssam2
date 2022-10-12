@@ -20,8 +20,8 @@ const populationGrowth = (currentSizeOfPopulation, growthRate) => {
   return currentSizeOfPopulation + growthRate
 }
 const earnedRunAverage = (numberOfEarnedRuns, inningsPitcherhasPitched) => {
-  return
-} 
+  return (numberOfEarnedRuns + inningsPitcherhasPitched) * 9
+  } 
 const valueOfJewels =(numberOfDiamonds, numberOfEmeralds, valueOfOneDiamondInGold, valueOfOneEmeraldInGold) => { 
   return (numberOfDiamonds * valueOfOneDiamondInGold) (numberOfEmeralds * valueOfOneEmeraldInGold) 
 }
