@@ -26,7 +26,7 @@ const valueOfJewels =(numberOfDiamonds, numberOfEmeralds, valueOfOneDiamondInGol
   return (numberOfDiamonds * valueOfOneDiamondInGold) (numberOfEmeralds * valueOfOneEmeraldInGold) 
 }
 const payWithOverTime = (numberOfHoursWorked, normalHourlyRate, overtimeRate) => { 
-  return 
+  return (numberOfHoursworked * normalHourlyRate) + overtimeRate
 }
 const firstClassPostage = (weightInOunces) => { 
   return
