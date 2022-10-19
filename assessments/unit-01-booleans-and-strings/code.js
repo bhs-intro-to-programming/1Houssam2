@@ -12,9 +12,9 @@ const rand = (n) => Math.floor(Math.random() * n);
 const  fireAlarm = ( alarmIsPulled, smokeIsDetected, plannedFireDrill) => {
   return ( alarmIsPulled || smokeIsDetected || plannedFireDrill) 
 } 
-const canBePresident = ( atLeast35, naturalBornCitien, livedInTheUsFor14Years) => {
-  return ( atLeast35 & naturalBornCitien & livedInTheUsFor14Years) 
+const canBePresident = ( ageInYears, bornCitien, yearsLivedInUS) => {
+  return ( ageInYears && bornCitien || yearsLivedInUS) 
 }
 const willSeeTweet = ( follow, followRt, block) => {
-  return (follow || followRt || block) 
+  return (follow || followRt) && ! block 
 }
