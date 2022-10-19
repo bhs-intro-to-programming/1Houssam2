@@ -15,4 +15,6 @@ const  fireAlarm = ( alarmIsPulled, smokeIsDetected, plannedFireDrill) => {
 const canBePresident = ( atLeast35, naturalBornCitien, livedInTheUsFor14Years) => {
   return ( atLeast35 & naturalBornCitien & livedInTheUsFor14Years) 
 }
-const willSeeTweet = ( )
+const willSeeTweet = ( follow, followRt, block) => {
+  return (follow || followRt || block) 
+}
