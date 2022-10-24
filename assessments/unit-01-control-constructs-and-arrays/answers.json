@@ -11,5 +11,6 @@
   "Immediately, the loop body never executes",
   "It tests whether limit is a prime number.",
   "3",
-  "xs[xs.length + 1]"
+  "xs[xs.length + 1]",
+  "3"
 ]
