@@ -12,5 +12,12 @@
     "answer": "'f'",
     "correct": true,
     "timestamp": 1666821380736
+  },
+  {
+    "name": "Length",
+    "canonical": "3",
+    "answer": "s.length",
+    "correct": false,
+    "timestamp": 1666821449378
   }
 ]
