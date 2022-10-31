@@ -34,3 +34,24 @@ const swapFrontAndBack = () => {
 const simplePigLatin = () => {
   return
 }
+const randomCharacter = () => { 
+  return 
+}
+const randomCharacterUpDown = () => {
+  return
+}
+const isAllUpperCase = () => {
+  return
+}
+const sameIgnoringCase = () => { 
+  return 
+}
+const firstName = () => { 
+  return
+} 
+const lastName = () => {
+  return
+}
+const initials = () => {
+  return
+}
