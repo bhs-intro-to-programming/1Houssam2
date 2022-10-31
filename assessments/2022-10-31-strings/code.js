@@ -31,3 +31,6 @@ const firstAndLast = () => {
 const swapFrontAndBack = () => {
   return
 }
+const simplePigLatin = () => {
+  return
+}
