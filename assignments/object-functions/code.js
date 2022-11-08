@@ -1,3 +1,3 @@
-const getX = () => {
-  return 
+const getX = (object) => {
+  return object.x
 }
