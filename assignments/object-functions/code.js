@@ -8,5 +8,5 @@ const emptyObject = () => {
   return {} 
 }
 const distance = (x,y) => {
-  return 
+  return {x,y}
 }
