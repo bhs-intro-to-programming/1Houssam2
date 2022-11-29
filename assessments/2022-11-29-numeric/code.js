@@ -22,3 +22,9 @@ const presentBudget = (numberoffriends, avgPrice) => {
 const perPresent = () => { 
   return 
 }
+const wrapingCombos = () => { 
+  return 
+}
+const biggestNumber = () => {
+  return 
+}
