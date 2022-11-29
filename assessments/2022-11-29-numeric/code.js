@@ -17,7 +17,7 @@ const futureHour = ( currentHour, futureHour ) => {
   return 
 }
 const presentBudget = (numberoffriends, avgPrice) => { 
-  return 
+  return  
 }
 const perPresent = () => { 
   return 
