@@ -1,13 +1,15 @@
 const totalEggs = (hardBoiledEggs, softBoiledEggs) => { 
   return hardBoiledEggs+softBoiledEggs
 } 
-const chocolatesPerPerson = (chocolates, people) => { 
+const chocolatesPerPerson = (chocolate, people) => { 
   return chocolate/people
 } 
-const extraChocolates = ( chocolates, people) => { 
-  return chocolates/people
+const extraChocolates = ( chocolate, people) => { 
+  return chocolate/people
 } 
 const leftOut = (chocolate, people) => { 
   return chocolate%people
 } 
-const probability 
+const probabilityAllHeads ( numberoftimesacoinflipped) => {
+  return numberoftimesacoinflipped * 0.5
+}
