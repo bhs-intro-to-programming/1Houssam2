@@ -19,12 +19,12 @@ const futureHour = ( currentHour, futureHour ) => {
 const presentBudget = (numberoffriends, avgPrice) => { 
   return  
 }
-const perPresent = () => { 
-  return 
+const perPresent = (totalMoney, numberofPresents) => { 
+  return totalMoney/numberofPresents 
 }
-const wrapingCombos = () => { 
-  return 
+const wrapingCombos = (numberOfwrappingpaper, numberOfRibbions, numberOfDecorativeBows) => { 
+  return numberOfwrappingpaper * numberOfRibbions * numberOfDecorativeBows 
 }
-const biggestNumber = () => {
-  return 
+const biggestNumber = (numberOfDigits) => {
+  return numberOfDigits**
 }
