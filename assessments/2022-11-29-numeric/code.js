@@ -10,6 +10,15 @@ const extraChocolates = ( chocolate, people) => {
 const leftOut = (chocolate, people) => { 
   return chocolate%people
 } 
-const probabilityAllHeads ( numberoftimesacoinflipped) => {
+const probabilityAllHeads = ( numberoftimesacoinflipped) => {
   return numberoftimesacoinflipped * 0.5
+}
+const futureHour = ( currentHour, futureHour ) => { 
+  return 
+}
+const presentBudget = (numberoffriends, avgPrice) => { 
+  return 
+}
+const perPresent = () => { 
+  return 
 }
