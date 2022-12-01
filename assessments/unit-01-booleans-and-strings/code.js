@@ -17,4 +17,4 @@ const canBePresident = ( ageInYears, bornCitien, yearsLivedInUS) => {
 }
 const willSeeTweet = ( follow, followRt, block) => {
   return (follow || followRt) && ! block 
-}
+} 
