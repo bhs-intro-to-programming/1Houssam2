@@ -10,4 +10,7 @@ const needMittens = (goingoutside, somewherewarm) => {
 const isVenomous = ( stripedsnake, bluehead) => {
   return stripedsnake && ! bluehead 
 } 
+const okaySpeed (speedlimit10MPH, carspeedMPH) => {
+  return speedlimit10MPH && carspeedMPH ; 10
+}
 const 
