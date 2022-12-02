@@ -10,7 +10,13 @@ const needMittens = (goingoutside, somewherewarm) => {
 const isVenomous = ( stripedsnake, bluehead) => {
   return stripedsnake && ! bluehead 
 } 
-const okaySpeed (speedlimit10MPH, carspeedMPH) => {
+const okaySpeed = (speedlimit10MPH, carspeedMPH) => {
   return speedlimit10MPH && carspeedMPH ; 10
 }
-const 
+const twiceAsExpensive = (firstitem, seconditem) => {
+  return firstitem *2> seconditem 
+}
+const winningRecord = (numberofwinning, numberoflosses, numberofties) => { 
+  return  numberofwinning > numberoflosses && numberofties
+} 
+const isMagicNumber
