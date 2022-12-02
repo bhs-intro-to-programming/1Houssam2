@@ -19,4 +19,6 @@ const twiceAsExpensive = (firstitem, seconditem) => {
 const winningRecord = (numberofwinning, numberoflosses, numberofties) => { 
   return  numberofwinning > numberoflosses && numberofties
 } 
-const isMagicNumber
+const isMagicNumber = ( number42, number17) => { 
+  return number42 || number17 
+}
