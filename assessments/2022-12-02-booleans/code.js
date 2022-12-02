@@ -4,4 +4,7 @@ const needHeavyCoat = (goingoutside, somewherecold) => {
 const needSunScreen = (goingtothebeach, goingskiing) => { 
   return goingtothebeach &&  goingskiing 
 } 
+const needMittens = (goingoutside, somewherewarm) => {
+  return goingoutside && ! somewherewarm 
+} 
 const 
