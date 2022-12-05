@@ -16,3 +16,9 @@ const containX = () => {
 const slug = () => {
   return
 } 
+const capitalize = () => {
+  return 
+}
+const capitalizeName = () {
+  return
+}
