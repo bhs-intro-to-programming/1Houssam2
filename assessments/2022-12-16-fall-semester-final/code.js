@@ -103,7 +103,7 @@ const chocolateperperson = (numberofchocolate, numberofpeople) => {
   return numberofchocolate / numberofpeople 
 }
 const extrachocolate = (numberofchocolate, numberofpeople) => {
-  return (numberofchocolate/numberofpeople+leftovers)  
+  return (numberofchocolate%numberofpeople)  
 }
 const leftOut = (numberofchocolate, numberofpeople) => {
   return 
@@ -117,4 +117,12 @@ const futureHour = (currenthouron24hourclock, positivenumberofhoursinthefuture) 
 const presentsBudget = (numberoffriendsyouarebuyingpresentsfor, theavgpriceyouplantobuy) => { 
   return numberoffriendsyouarebuyingpresentsfor + theavgpriceyouplantobuy 
 } 
-const 
+const perPresent = (totalamountofmoney, presentyouneedtobuy) => { 
+  return totalamountofmoney / presentyouneedtobuy 
+}
+const wrapingCombos = (numberofkindsofwrappingpaper, numberofkindsofribbions, numberofkindsdecorativebows) => { 
+  return numberofkindsofwrappingpaper * numberofkindsofribbions * numberofkindsdecorativebows 
+} 
+const biggestNumber= (numberofdigits) => { 
+  return numberofdigits**
+} 
