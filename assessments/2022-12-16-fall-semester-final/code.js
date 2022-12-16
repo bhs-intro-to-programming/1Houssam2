@@ -123,7 +123,22 @@ const perPresent = (totalamountofmoney, presentyouneedtobuy) => {
 const wrapingCombos = (numberofkindsofwrappingpaper, numberofkindsofribbions, numberofkindsdecorativebows) => { 
   return numberofkindsofwrappingpaper * numberofkindsofribbions * numberofkindsdecorativebows 
 } 
-const biggestNumber= (numberofdigits) => { 
+const biggestNumber = (numberofdigits) => { 
   return numberofdigits**
 } 
+const itemsLeftOver = (numberofpeople, numberofitems) => { 
+  return numberofpeople / numberofitems 
+}
+const areaofCircle = (radiusofacircle) => { 
+  return Math.PI (radiusofacircle) 
+}
+const volumeOfCube = (lengthofoneedgeofcube) => {
+  return 
+} 
+const fireAlarm = (firealarmispulled, plannedfiredrill, smokedetected) => { 
+  return (firealarmispulled || plannedfiredrill || smokedetected) 
+}
+const canBePresident = (atleast35yearsold, naturalborncitizen, livedinUSfor14years) => { 
+  return (atleast35yearsold && naturalborncitizen && livedinUSfor14years)
+}
 const 
