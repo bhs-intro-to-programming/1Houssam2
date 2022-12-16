@@ -96,3 +96,16 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+const totalEggs = (hardboiledeggs, softboiledeggs) => { 
+  return hardboiledeggs + softboiledeggs 
+} 
+const chocolateperperson = (numberofchocolate, numberofpeople) => {
+  return numberofchocolate / numberofpeople 
+}
+const extrachocolate = (numberofchocolate, numberofpeople) => {
+  return (numberofchocolate/numberofpeople+leftovers)  
+}
+const leftOut = (numberofchocolate, numberofpeople) => {
+  return 
+}
+const 
