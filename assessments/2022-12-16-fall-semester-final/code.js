@@ -141,4 +141,7 @@ const fireAlarm = (firealarmispulled, plannedfiredrill, smokedetected) => {
 const canBePresident = (atleast35yearsold, naturalborncitizen, livedinUSfor14years) => { 
   return (atleast35yearsold && naturalborncitizen && livedinUSfor14years)
 }
+const willSeeTweet = (followthepersontweet, followapersonretweeted, blocked) => { 
+  return (followthepersontweet || followapersonretweeted && ! blocked)
+}  
 const 
