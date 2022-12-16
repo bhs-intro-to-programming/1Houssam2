@@ -159,4 +159,4 @@ const isVenomous = (stripedsnake, blueheadsnake) => {
 const okaySpeed = (speedlimitinmilesperhour, speedacarisgoinginmilesperhour) => {
 return speedlimitinmilesperhour && speedacarisgoinginmilesperhour 
 }
-const 
+const isMagicNumber = ()
