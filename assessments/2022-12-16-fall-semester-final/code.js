@@ -144,4 +144,19 @@ const canBePresident = (atleast35yearsold, naturalborncitizen, livedinUSfor14yea
 const willSeeTweet = (followthepersontweet, followapersonretweeted, blocked) => { 
   return (followthepersontweet || followapersonretweeted && ! blocked)
 }  
+const needHeavyCoat = (goingoutside, somewherecold) => {
+  return goingoutside && somewherecold
+}
+const needSunscreen = (goingtothebeach, goingskiing) => {
+  return goingtothebeach && goingskiing
+}
+const needMittens = (goingoutside, somewherewarm) => {
+  return goingoutside && ! somewherewarm
+}
+const isVenomous = (stripedsnake, blueheadsnake) => { 
+  return stripedsnake && ! blueheadsnake 
+}
+const okaySpeed = (speedlimitinmilesperhour, speedacarisgoinginmilesperhour) => {
+return speedlimitinmilesperhour && speedacarisgoinginmilesperhour 
+}
 const 
