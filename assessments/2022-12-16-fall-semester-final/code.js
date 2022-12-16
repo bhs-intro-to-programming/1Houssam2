@@ -108,4 +108,13 @@ const extrachocolate = (numberofchocolate, numberofpeople) => {
 const leftOut = (numberofchocolate, numberofpeople) => {
   return 
 }
+const probabilityAllHeads = (numberoftimescoinflipped) => { 
+  return numberoftimescoinflipped / 0.5 
+}
+const futureHour = (currenthouron24hourclock, positivenumberofhoursinthefuture) => {
+  return currenthouron24hourclock + positivenumberofhoursinthefuture 
+}
+const presentsBudget = (numberoffriendsyouarebuyingpresentsfor, theavgpriceyouplantobuy) => { 
+  return numberoffriendsyouarebuyingpresentsfor + theavgpriceyouplantobuy 
+} 
 const 
