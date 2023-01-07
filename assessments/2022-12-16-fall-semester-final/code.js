@@ -96,3 +96,67 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+const totalEggs = (hardboiledeggs, softboiledeggs) => { 
+  return hardboiledeggs + softboiledeggs 
+} 
+const chocolateperperson = (numberofchocolate, numberofpeople) => {
+  return numberofchocolate / numberofpeople 
+}
+const extrachocolate = (numberofchocolate, numberofpeople) => {
+  return (numberofchocolate%numberofpeople)  
+}
+const leftOut = (numberofchocolate, numberofpeople) => {
+  return 
+}
+const probabilityAllHeads = (numberoftimescoinflipped) => { 
+  return numberoftimescoinflipped / 0.5 
+}
+const futureHour = (currenthouron24hourclock, positivenumberofhoursinthefuture) => {
+  return currenthouron24hourclock + positivenumberofhoursinthefuture 
+}
+const presentsBudget = (numberoffriendsyouarebuyingpresentsfor, theavgpriceyouplantobuy) => { 
+  return numberoffriendsyouarebuyingpresentsfor + theavgpriceyouplantobuy 
+} 
+const perPresent = (totalamountofmoney, presentyouneedtobuy) => { 
+  return totalamountofmoney / presentyouneedtobuy 
+}
+const wrapingCombos = (numberofkindsofwrappingpaper, numberofkindsofribbions, numberofkindsdecorativebows) => { 
+  return numberofkindsofwrappingpaper * numberofkindsofribbions * numberofkindsdecorativebows 
+} 
+const biggestNumber = (numberofdigits) => { 
+  return numberofdigits**
+} 
+const itemsLeftOver = (numberofpeople, numberofitems) => { 
+  return numberofpeople / numberofitems 
+}
+const areaofCircle = (radiusofacircle) => { 
+  return Math.PI (radiusofacircle) 
+}
+const volumeOfCube = (lengthofoneedgeofcube) => {
+  return 
+} 
+const fireAlarm = (firealarmispulled, plannedfiredrill, smokedetected) => { 
+  return (firealarmispulled || plannedfiredrill || smokedetected) 
+}
+const canBePresident = (atleast35yearsold, naturalborncitizen, livedinUSfor14years) => { 
+  return (atleast35yearsold && naturalborncitizen && livedinUSfor14years)
+}
+const willSeeTweet = (followthepersontweet, followapersonretweeted, blocked) => { 
+  return (followthepersontweet || followapersonretweeted && ! blocked)
+}  
+const needHeavyCoat = (goingoutside, somewherecold) => {
+  return goingoutside && somewherecold
+}
+const needSunscreen = (goingtothebeach, goingskiing) => {
+  return goingtothebeach && goingskiing
+}
+const needMittens = (goingoutside, somewherewarm) => {
+  return goingoutside && ! somewherewarm
+}
+const isVenomous = (stripedsnake, blueheadsnake) => { 
+  return stripedsnake && ! blueheadsnake 
+}
+const okaySpeed = (speedlimitinmilesperhour, speedacarisgoinginmilesperhour) => {
+return speedlimitinmilesperhour && speedacarisgoinginmilesperhour 
+}
+const isMagicNumber = ()
